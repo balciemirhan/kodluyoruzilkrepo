@@ -32,8 +32,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/ " MIT")
-
-       [patika.dev](https://app.patika.dev/emirhanbalci "patika.profilim")                 
+ [patika.dev](https://app.patika.dev/emirhanbalci "patika.profilim")                 
                       
                       
                    
