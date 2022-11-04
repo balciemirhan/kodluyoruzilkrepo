@@ -37,7 +37,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 [patika.dev](https://app.patika.dev/emirhanbalci "patika.profilim")
  
 
-![]("C:\Users\Monster\Desktop\figuresgithub.png")
+
               
                       
                    
