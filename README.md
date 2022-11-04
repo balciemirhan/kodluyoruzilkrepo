@@ -36,7 +36,9 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 [patika.dev](https://app.patika.dev/emirhanbalci "patika.profilim")
  
-![]("C:\Users\Monster\Desktop\Ekran görüntüsü 2022-11-04 194533.png")                      
+
+
+              
                       
                    
 
