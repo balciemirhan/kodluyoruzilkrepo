@@ -4,7 +4,7 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/ "Kodluyoruz.org")  Fr
 
 
 
-![](Ekran görüntüsü 2022-11-04 192834.png)
+![](https//:Ekran görüntüsü 2022-11-04 192834.png)
 
 ## Installation
 
