@@ -4,7 +4,7 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/ "Kodluyoruz.org")  Fr
 
 
 
-![](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
+![](Ekran görüntüsü 2022-11-04 192834.png)
 
 ## Installation
 
